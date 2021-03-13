@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 428.91">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #333950;
+      }
+
+      .cls-3 {
+        fill: #6459a0;
+      }
+
+      .cls-4 {
+        fill: #414965;
+      }
+
+      .cls-5 {
+        fill: #cae6ee;
+      }
+
+      .cls-6 {
+        fill: #fdf5ea;
+      }
+    </style>
+  </defs>
+  <title>Гора</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Гора">
+      <g class="cls-1">
+        <path class="cls-2" d="M449,217.3,247.49,158.69V428.91H595.28C595.28,428.85,449,217.3,449,217.3Z"/>
+        <path class="cls-3" d="M0,428.91H249.35V197.23l-88.13-1.31S0,426.1,0,428.91Z"/>
+        <path class="cls-4" d="M299,25.85l-185,403.06,185-.58V25.85Z"/>
+        <path class="cls-5" d="M299,0,264.65,99.85,299,217.28l75,109.88L449,217.3Z"/>
+        <path class="cls-6" d="M147.58,215.28,224,327.16l75-109.88V0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

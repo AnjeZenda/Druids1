@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 25.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6b3c39;
+      }
+
+      .cls-2 {
+        fill: #7aa75c;
+      }
+
+      .cls-3 {
+        fill: #543231;
+      }
+    </style>
+  </defs>
+  <title>Zemlya (2)</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Zemlya">
+      <g>
+        <rect class="cls-1" y="0.2" width="595.28" height="25.62"/>
+        <rect class="cls-2" y="0.2" width="595.28" height="18.22"/>
+        <rect class="cls-3" y="12.18" width="595.28" height="6.69"/>
+      </g>
+    </g>
+  </g>
+</svg>

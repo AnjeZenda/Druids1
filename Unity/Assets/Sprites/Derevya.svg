@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610.12 221.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #543231;
+      }
+
+      .cls-2 {
+        fill: #64373c;
+      }
+
+      .cls-3 {
+        fill: #494d2a;
+      }
+
+      .cls-4 {
+        fill: #4e522f;
+      }
+    </style>
+  </defs>
+  <title>Деревья</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Деревья">
+      <g>
+        <g>
+          <rect class="cls-1" x="37.08" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="37.08" y="64.53" width="12.38" height="156.78"/>
+          <polyline class="cls-3" points="49.46 191.13 98.92 191.13 49.46 0"/>
+          <polyline class="cls-4" points="49.46 0 0 191.13 49.46 191.13"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="194.82" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="194.82" y="64.53" width="12.38" height="156.78"/>
+          <polyline class="cls-3" points="207.2 191.13 256.66 191.13 207.2 0"/>
+          <polyline class="cls-4" points="207.2 0 157.74 191.13 207.2 191.13"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="340.05" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="340.05" y="64.53" width="12.38" height="156.78"/>
+          <polyline class="cls-3" points="352.43 191.12 401.89 191.12 352.43 0"/>
+          <polyline class="cls-4" points="352.43 0 302.97 191.12 352.43 191.12"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="476.9" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="476.9" y="64.53" width="12.38" height="156.78"/>
+          <polyline class="cls-3" points="489.26 192.64 538.72 192.64 489.26 1.52"/>
+          <polyline class="cls-4" points="489.28 0 439.82 191.12 489.28 191.12"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="272.1" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="272.1" y="64.53" width="12.38" height="156.78"/>
+          <path class="cls-4" d="M284.48,119.67a55.15,55.15,0,1,1,0-110.29"/>
+          <path class="cls-3" d="M284.48,9.38a55.15,55.15,0,0,1,0,110.29"/>
+          <circle class="cls-4" cx="326.92" cy="71.06" r="6.54"/>
+          <circle class="cls-4" cx="320.99" cy="86.26" r="6.54"/>
+          <circle class="cls-4" cx="308.92" cy="96.87" r="6.54"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="402.47" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="402.47" y="64.53" width="12.38" height="156.78"/>
+          <path class="cls-4" d="M414.85,119.67a55.15,55.15,0,1,1,0-110.29"/>
+          <path class="cls-3" d="M414.85,9.38a55.15,55.15,0,0,1,0,110.29"/>
+          <circle class="cls-4" cx="457.29" cy="71.06" r="6.54"/>
+          <circle class="cls-4" cx="451.36" cy="86.26" r="6.54"/>
+          <circle class="cls-4" cx="439.29" cy="96.87" r="6.54"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="542.6" y="64.53" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="542.6" y="64.53" width="12.38" height="156.78"/>
+          <path class="cls-4" d="M555,119.67A55.15,55.15,0,1,1,555,9.38"/>
+          <path class="cls-3" d="M555,9.38a55.15,55.15,0,0,1,0,110.29"/>
+          <circle class="cls-4" cx="597.42" cy="71.06" r="6.54"/>
+          <circle class="cls-4" cx="591.49" cy="86.26" r="6.54"/>
+          <circle class="cls-4" cx="579.42" cy="96.87" r="6.54"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="107.34" y="64.72" width="24.76" height="156.78"/>
+          <rect class="cls-2" x="107.34" y="64.72" width="12.38" height="156.78"/>
+          <path class="cls-4" d="M119.72,119.86a55.15,55.15,0,1,1,0-110.29"/>
+          <path class="cls-3" d="M119.72,9.57a55.15,55.15,0,0,1,0,110.29"/>
+          <circle class="cls-4" cx="162.16" cy="71.25" r="6.54"/>
+          <circle class="cls-4" cx="156.23" cy="86.45" r="6.54"/>
+          <circle class="cls-4" cx="144.16" cy="97.06" r="6.54"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

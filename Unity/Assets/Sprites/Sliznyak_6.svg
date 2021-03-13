@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.08 100.74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26482e;
+      }
+
+      .cls-2 {
+        fill: #589255;
+        opacity: 0.85;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #201600;
+      }
+
+      .cls-5 {
+        fill: #3d6143;
+      }
+    </style>
+  </defs>
+  <title>Слизняк 6</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слизняк_6" data-name="Слизняк 6">
+      <g>
+        <g>
+          <path class="cls-1" d="M50.54,0a50.37,50.37,0,1,0,50.54,50.54A50.54,50.54,0,0,0,50.54,0ZM49.37,97C23.43,97,4.7,76.06,4.7,50.11s20-46,46-46,46,20,46,46S75.32,97,49.37,97Z"/>
+          <path class="cls-2" d="M50.54,1.63A48.54,48.54,0,1,0,99.26,50.35,48.72,48.72,0,0,0,50.54,1.63Z"/>
+        </g>
+        <circle class="cls-1" cx="24.59" cy="49.53" r="11.54"/>
+        <circle class="cls-1" cx="56.57" cy="49.69" r="11.54"/>
+        <circle class="cls-3" cx="24.59" cy="49.69" r="7.97"/>
+        <circle class="cls-4" cx="22.44" cy="49.69" r="3.11"/>
+        <circle class="cls-3" cx="56.57" cy="49.69" r="7.97"/>
+        <circle class="cls-4" cx="54.41" cy="49.69" r="3.11"/>
+        <circle class="cls-5" cx="74.74" cy="75.66" r="7.12"/>
+        <circle class="cls-5" cx="74.74" cy="34.96" r="4.84"/>
+        <circle class="cls-5" cx="42.85" cy="24.13" r="4.1"/>
+        <ellipse class="cls-5" cx="17.2" cy="68.77" rx="4.61" ry="2.95"/>
+      </g>
+    </g>
+  </g>
+</svg>
