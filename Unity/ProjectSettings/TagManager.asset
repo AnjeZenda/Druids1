@@ -6,6 +6,7 @@ TagManager:
   tags:
   - SpawnObstacle
   - Wood
+  - Gap
   layers:
   - Default
   - TransparentFX
